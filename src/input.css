@@ -14,3 +14,11 @@
 	border-radius: 10px;
 	cursor: pointer;
 }
+
+.correct{
+background: #9aeabc;
+}
+
+.incorrect{
+background: #ff9393;
+}

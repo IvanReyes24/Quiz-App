@@ -2540,6 +2540,14 @@ video {
   cursor: pointer;
 }
 
+.correct{
+  background: #9aeabc;
+}
+
+.incorrect{
+  background: #ff9393;
+}
+
 @media (min-width: 640px) {
   .sm\:container {
     width: 100%;
